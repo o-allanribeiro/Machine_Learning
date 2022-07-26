@@ -10,7 +10,11 @@ Em desenvolvimento alguns exercícios com os procedimentos de machine learning, 
 O exercício 1, explora-se a definição de um simples modelo, medindo a indice de satisfação de vida e o PIB per capita
 
 Modelagem dos dados
+
 Estimação do modelo de regressão simples
+
 Ajustar os dados
+
 Estimação de modelo linear com dados ajustado
+
 Comparação de modelos
