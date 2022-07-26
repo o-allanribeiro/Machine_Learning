@@ -29,11 +29,7 @@ xi – Valor da iésima características
 
 Busca-se investigar se o dinheiro traz felicidades as pessoas, com os dados de índice de vida melhor no site da OCDE e dos dados sobre o PIB e da renda per capita no site do FMI.
 
-Equação direta – forma fechada
-
-Abordagem otimizada iterativa
-
-Regressão polinomial
+**Equação direta – forma fechada, Abordagem otimizada iterativa e Regressão polinomial**
 
 Modelagem dos dados
 
