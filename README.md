@@ -3,7 +3,8 @@
 # Machine learning na prática
 
 Exercícios práticos do livro **Hands-on: ML with Scikit-learn, Keras and TensorFlow** - Aurélien Géron - 2nd Editiion
-Repositório do autor [GitHub 2nd Edition](https://github.com/ageron/handson-ml2) [Github 3rd edition](https://github.com/ageron/handson-ml3)
+
+**Repositório do autor** [GitHub 2nd Edition](https://github.com/ageron/handson-ml2) [Github 3rd edition](https://github.com/ageron/handson-ml3)
 
 Em desenvolvimento alguns exercícios com os procedimentos de machine learning, sendo reestruturados para prática.
 
