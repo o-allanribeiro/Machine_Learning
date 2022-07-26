@@ -55,5 +55,7 @@ Comparação de modelos
 ### Selecionar e treinar o modelo
 
 ### Aperfeiçoar o modelo
+
 ### Apresentar uma solução
+
 ### Disponibilizar em produção, monitorar e fazer manutenção do sistema
