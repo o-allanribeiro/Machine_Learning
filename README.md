@@ -43,21 +43,17 @@ Comparação de modelos
 
 # Exercício 2
 
->Nesta seção apresenta-se o processo de estimação de ponta a ponta
-'''
--Análise do panorama geral
+## Nesta seção apresenta-se o processo de estimação de ponta a ponta
+### Análise do panorama geral
 
--Obtenção dos dados
+### Obtenção dos dados
 
--Identificar e visualizar os dados para coletar as informações relevantes
+### Identificar e visualizar os dados para coletar as informações relevantes
 
--Preparar os dados para o algoritimo
+### Preparar os dados para o algoritimo
 
--Selecionar e treinar o modelo
+### Selecionar e treinar o modelo
 
--Aperfeiçoar o modelo
-
--Apresentar uma solução
-
--Disponibilizar em produção, monitorar e fazer manutenção do sistema
-'''
+### Aperfeiçoar o modelo
+### Apresentar uma solução
+### Disponibilizar em produção, monitorar e fazer manutenção do sistema
