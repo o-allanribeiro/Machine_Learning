@@ -1,6 +1,6 @@
 # book_training
 
-<Machine learning na prática>
+#Machine learning na prática
 
 Exercícios práticos do livro Hands-on: ML with Scikit-learn, Keras and TensorFlow - Aurélien Géron - 2nd Editiion
 
