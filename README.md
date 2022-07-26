@@ -9,7 +9,7 @@ Exercícios práticos do livro **Hands-on: ML with Scikit-learn, Keras and Tenso
 Em desenvolvimento alguns exercícios com os procedimentos de machine learning, sendo reestruturados para prática.
 
 # **Exercício 1**
-O exercício 1, explora-se a definição de um simples modelo, medindo a indice de satisfação de vida e o PIB per capita
+O exercício 1, explora-se a definição de um simples modelo de regressão, medindo a indice de satisfação de vida e o PIB per capita
 
 
 ## Regressão linear – Em termo gerais
@@ -40,3 +40,24 @@ Ajustar os dados
 Estimação de modelo linear com dados ajustado
 
 Comparação de modelos
+
+# Exercício 2
+
+>Nesta seção apresenta-se o processo de estimação de ponta a ponta
+'''
+-Análise do panorama geral
+
+-Obtenção dos dados
+
+-Identificar e visualizar os dados para coletar as informações relevantes
+
+-Preparar os dados para o algoritimo
+
+-Selecionar e treinar o modelo
+
+-Aperfeiçoar o modelo
+
+-Apresentar uma solução
+
+-Disponibilizar em produção, monitorar e fazer manutenção do sistema
+'''
