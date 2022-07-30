@@ -8,7 +8,7 @@ Exercícios práticos do livro **Hands-on: ML with Scikit-learn, Keras and Tenso
 
 Em desenvolvimento alguns exercícios com os procedimentos de machine learning, sendo reestruturados para prática.
 
-# **Exercício 1**
+# **Capítulo 1**
 O exercício 1, explora-se a definição de um simples modelo de regressão, medindo a indice de satisfação de vida e o PIB per capita
 
 
@@ -41,12 +41,19 @@ Estimação de modelo linear com dados ajustado
 
 Comparação de modelos
 
-# Exercício 2
+# Capitulo 2
 
 ## Nesta seção apresenta-se o processo de estimação de ponta a ponta
+
 ### Análise do panorama geral
+>Nesta tarefa criaremos um modelo de preços para o setor imobiliário usando dados censo da Califórnia. Os dados possuem indicadores para cada grupo de bairros como população, renda média e preço médio do imóvel. Os grupos de bairros serão abreviados por regiões.
+>Este modelo propõe aprendizado com os dados e a possibilidade de realizar previsão de preço médio do imóvel considerando todos os indicadores e em qualquer região.
+>O objetivo é apresentar uma predição do preço médio dos imóveis para alimentar outros sistemas que recebem outros sinais, onde estabelecerá se vale a pena ou não investir em determinada região.
+>Como medida de desempenho utiliza-se a raiz do erro quadrático médio (RMSE), para se ter uma base dos erros gerados pelo sistema nas predições
 
 ### Obtenção dos dados
+
+>Dados obtidos no repositório do autor [Github 3rd edition](https://github.com/ageron/handson-ml3)
 
 ### Identificar e visualizar os dados para coletar as informações relevantes
 
