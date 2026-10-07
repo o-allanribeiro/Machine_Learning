@@ -66,3 +66,10 @@ Comparação de modelos
 ### Apresentar uma solução
 
 ### Disponibilizar em produção, monitorar e fazer manutenção do sistema
+
+
+## Créditos e licenças
+
+Este repositório reúne exercícios de estudo baseados no livro *Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow*, de Aurélien Géron. O código original do autor está em [handson-ml2](https://github.com/ageron/handson-ml2) e [handson-ml3](https://github.com/ageron/handson-ml3), licenciados sob **Apache License 2.0**; as adaptações aqui são de estudo e não são afiliadas ao autor.
+
+Os arquivos de `datasets/lifesat/` (índice de vida melhor da OCDE e PIB per capita) vêm do repositório de dados do autor, [ageron/data](https://github.com/ageron/data), que não declara licença própria. Os dados originais pertencem às respectivas fontes (OCDE e as bases de PIB per capita); consulte-as para condições de uso.
